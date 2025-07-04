@@ -1,0 +1,44 @@
+{
+  "timeZone": "America/New_York",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "MomentTimezone",
+        "libraryId": "AKfycbxIQNefhUC-irI2bOfuzd0a9WgAgiYr2905maWg7rgHG9nNqQGNjrPoEuN4CPNfvlhycQ",
+        "version": "1"
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/spreadsheets"
+  ],
+  "addOns": {
+    "common": {
+      "name": "Timezone Converter",
+      "logoUrl": "https://raw.githubusercontent.com/anthony-maio/google-sheets-timezone-converter/main/assets/logo-128x128.png",
+      "layoutProperties": {
+        "primaryColor": "#1a73e8",
+        "secondaryColor": "#188038"
+      },
+      "universalActions": [],
+      "useLocaleFromApp": true
+    },
+    "sheets": {
+      "homepageTrigger": {
+        "enabled": true,
+        "runFunction": "onHomepage"
+      }
+    }
+  },
+  "sheets": {
+    "macros": [
+      {
+        "menuName": "CONVERT_TIMEZONE",
+        "functionName": "CONVERT_TIMEZONE",
+        "defaultShortcut": ""
+      }
+    ]
+  },
+  "runtimeVersion": "V8"
+}

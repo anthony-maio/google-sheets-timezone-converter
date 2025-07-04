@@ -1,0 +1,24 @@
+# Dependencies
+node_modules
+
+# Build output
+dist
+
+# Vite cache
+.vite/
+
+# IDE/editor directories
+.idea/
+.vscode/
+.claude/
+
+# Ignore all files in the docs directory by default
+docs/*
+# But re-include the files needed for GitHub Pages
+!docs/index.md
+!docs/privacy.md
+!docs/terms.md
+
+# OS generated files
+.DS_Store
+Thumbs.db
