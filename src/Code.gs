@@ -179,8 +179,9 @@ function onOpen(e) {
   // But we'll keep it for backward compatibility
   try {
     SpreadsheetApp.getUi()
-        .createAddonMenu()
+        .createMenu('Timezone Converter')
         .addItem('About', 'showAbout')
+        .addSeparator()
         .addItem('List Available Timezones', 'showTimezoneList')
         .addToUi();
   } catch (error) {

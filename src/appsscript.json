@@ -16,7 +16,7 @@
   "addOns": {
     "common": {
       "name": "Timezone Converter",
-      "logoUrl": "https://raw.githubusercontent.com/anthony-maio/google-sheets-timezone-converter/main/assets/logo-128x128.png",
+      "logoUrl": "https://raw.githubusercontent.com/anthony-maio/google-sheets-timezone-converter/main/google-sheets-timezone-converter/assets/logo-128x128.png",
       "layoutProperties": {
         "primaryColor": "#1a73e8",
         "secondaryColor": "#188038"
