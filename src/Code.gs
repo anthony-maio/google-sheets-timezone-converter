@@ -1,19 +1,19 @@
 /**
  * Timezone Converter Add-on for Google Sheets
- * Version: 1.0.0
+ * Version: 1.1.0
  * Date: May 22, 2025
- * 
+ *
  * Features:
  * - CONVERT_TIMEZONE custom function
  * - IANA timezone database support via Moment-Timezone library
  * - Comprehensive DST handling
  * - Robust error handling for invalid inputs
- * 
+ *
  * Dependencies:
  * - MomentTimezoneLibrary (separate Apps Script library project)
- * 
- * Author:Anthony Maio <anthony.maio@gmail.com>
- * License: GNU AGPLc3
+ *
+ * Author: Anthony Maio <anthony.maio@gmail.com>
+ * License: MIT License
  */
 
 /**
@@ -152,7 +152,7 @@ function onHomepage(e) {
   const card = CardService.newCardBuilder()
     .setHeader(CardService.newCardHeader()
       .setTitle('Timezone Converter')
-      .setSubtitle('Version 1.0.0')
+      .setSubtitle('Version 1.1.0')
       .setImageUrl('https://raw.githubusercontent.com/anthony-maio/google-sheets-timezone-converter/main/assets/logo-128x128.png'))
     .addSection(CardService.newCardSection()
       .addWidget(CardService.newTextParagraph()
