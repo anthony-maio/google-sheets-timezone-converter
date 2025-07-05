@@ -1,29 +1,48 @@
-# Terms of Service for Timezone Converter for Sheets
+# Terms of Service for Timezone Converter
 
-By using the Timezone Converter for Sheets add-on (the "Add-on"), you agree to be bound by these Terms of Service.
+**Last updated: January 2025**
 
-## -  License
+## Acceptance of Terms
 
-The Add-on is licensed to you under the GNU Affero General Public License, Version -  The full license text is available in the `LICENSE` file of the source code repository. This license grants you the freedom to use, study, share, and modify the software.
+By installing and using the Timezone Converter add-on for Google Sheets, you agree to these terms.
 
-## -  Use of the Add-on
+## Description of Service
 
-You agree to use the Add-on in compliance with all applicable laws and regulations and not for any purpose that is prohibited by these terms.
+Timezone Converter provides a custom function `CONVERT_TIMEZONE()` that converts datetime values between different timezones within Google Sheets.
 
-## -  Disclaimer of Warranties
+## Use of Service
 
-The Add-on is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+- This add-on is provided free of charge
+- You may use it for personal or commercial purposes
+- The service is provided "as is" without warranties
+- We are not liable for any data loss or errors in timezone conversions
 
-## -  Limitation of Liability
+## User Responsibilities
 
-You expressly understand and agree that the author shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data, or other intangible losses resulting from the use of or inability to use the Add-on.
+- Verify timezone conversion results for critical applications
+- Do not use for applications where incorrect time data could cause harm
+- Respect Google's Terms of Service for Google Workspace
 
-## -  Changes to These Terms
+## Intellectual Property
 
-We reserve the right to modify these terms at any time. We will notify you of any changes by posting the new Terms of Service on this page. Your continued use of the Add-on after any such changes constitutes your acceptance of the new terms.
+- The add-on code is released under MIT License
+- You may not redistribute this add-on as your own
+- Moment.js library used under its respective license
 
-## -  Contact Us
+## Service Availability
 
-If you have any questions about these Terms of Service, please contact us at: [anthony.maio@gmail.com](mailto:anthony.maio@gmail.com)
+- We strive for high availability but make no guarantees
+- Service may be interrupted for maintenance or updates
+- We reserve the right to discontinue the service with notice
 
-## Last Updated July 4, 2025
+## Changes to Terms
+
+We may update these terms. Continued use after changes constitutes acceptance.
+
+## Contact
+
+For questions about these terms: anthony.maio@gmail.com
+
+## Governing Law
+
+These terms are governed by the laws of the United States.

@@ -3,12 +3,12 @@ node_modules
 
 # Build output
 dist
+.clasp.json 
 
 # Vite cache
 .vite/
 
-# IDE/editor directories
-.idea/
+# IDE/editor directoriesgit 
 .vscode/
 .claude/
 
