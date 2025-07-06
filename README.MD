@@ -33,7 +33,7 @@ Use the **CONVERT_TIMEZONE** function in any cell:
 - Australia/Sydney
 - Pacific/Auckland
 
-*Use the menu option "List Available Timezones" to see all supported timezones.*
+*See the complete [IANA Timezone Reference](https://gist.github.com/anthony-maio/e4dbded3b4713d98ba36229a52e67b53) for all supported timezones.*
 
 ## Features
 
@@ -44,6 +44,18 @@ Use the **CONVERT_TIMEZONE** function in any cell:
 - ✔️ Clear error messages for invalid inputs
 - ✔️ Impresses members of the opposite sex
 - ✖️ Does NOT make your late night jokes funny
+
+## Security & Setup
+
+**Important**: This project uses template files for clasp configuration to avoid committing sensitive script IDs to version control.
+
+Before deploying:
+
+1. Copy `.clasp.json.template` to `.clasp.json`
+2. Copy `src/.clasp.json.template` to `src/.clasp.json`
+3. Replace `YOUR_SCRIPT_ID_HERE` with your actual Google Apps Script project ID
+
+See [`clasp-setup-guide.md`](clasp-setup-guide.md) for detailed instructions.
 
 ---
 **Support:** [GitHub Repository](https://github.com/anthony-maio/google-sheets-timezone-converter)

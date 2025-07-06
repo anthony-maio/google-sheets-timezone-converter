@@ -1,6 +1,6 @@
 # Terms of Service for Timezone Converter
 
-**Last updated: January 2025**
+Last updated: January 20255
 
 ## Acceptance of Terms
 

@@ -1,0 +1,41 @@
+# Source directory (we've moved files to root)
+
+src/
+
+# Documentation and guides
+
+README.MD
+CHANGELOG.MD
+LICENSE.MD
+MANIFEST.MD
+*.md
+
+# Development files
+
+automation-helper.md
+clasp-completion-steps.md
+clasp-setup-guide.md
+migration-guide.md
+
+# Assets and store listing
+
+assets/
+docs/
+
+# Library files (separate project)
+
+library-moment-timezone/
+
+# Git files
+
+.gitignore
+
+# IDE files
+
+.vscode/
+.claude/
+
+# Other development files
+
+node_modules/
+dist/

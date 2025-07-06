@@ -3,12 +3,11 @@ node_modules
 
 # Build output
 dist
-.clasp.json 
 
 # Vite cache
 .vite/
 
-# IDE/editor directoriesgit 
+# IDE/editor directories
 .vscode/
 .claude/
 
@@ -22,3 +21,6 @@ docs/*
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# Clasp configuration files (contain sensitive script IDs)
+.clasp.json

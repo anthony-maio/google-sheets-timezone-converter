@@ -12,7 +12,7 @@ A simple, powerful Google Sheets Add-on to convert dates and times across differ
 
 ## Installation
 
-[Link to Google Workspace Marketplace Listing (Coming Soon)]()
+Link to Google Workspace Marketplace Listing (Coming Soon)
 
 ---
 

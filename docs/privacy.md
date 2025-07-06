@@ -1,6 +1,6 @@
 # Privacy Policy for Timezone Converter
 
-**Last updated: January 2025**
+Last updated: January 2025
 
 ## Information We Collect
 
