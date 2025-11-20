@@ -1,5 +1,11 @@
 # Global Add-on Configuration Update
 
+## CI/CD & Marketplace Prep (Unreleased)
+
+- Added GitHub Actions workflow for automated Apps Script deployments via clasp.
+- Documented deployment pipeline, Marketplace submission checklist, and platform support guidance.
+
+
 ## Changes Made for Global Installation (v1.1)
 
 ### Overview

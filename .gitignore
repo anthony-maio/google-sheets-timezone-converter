@@ -17,6 +17,8 @@ docs/*
 !docs/index.md
 !docs/privacy.md
 !docs/terms.md
+!docs/ci-cd.md
+!docs/marketplace-checklist.md
 
 # OS generated files
 .DS_Store
